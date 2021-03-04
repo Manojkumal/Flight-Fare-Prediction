@@ -11,5 +11,6 @@ Predicting flight prices without having proper idea about particular airline com
 
 # Built With
 ![alt text](https://user-images.githubusercontent.com/50701303/109995026-00cbe300-7d36-11eb-88af-68ac03818b26.png)
-![alt text](https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg)
+![alt text](![image](https://user-images.githubusercontent.com/50701303/109995181-2b1da080-7d36-11eb-920d-246b748ae47c.png)
+)
 
