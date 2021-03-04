@@ -10,7 +10,6 @@ Predicting flight prices without having proper idea about particular airline com
 [Flight Fare Prediction Dataset](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
 
 # Built With
-![alt text](https://user-images.githubusercontent.com/50701303/109995026-00cbe300-7d36-11eb-88af-68ac03818b26.png)
-![alt text](https://user-images.githubusercontent.com/50701303/109995181-2b1da080-7d36-11eb-920d-246b748ae47c.png)
+
 
 
