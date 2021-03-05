@@ -14,7 +14,7 @@ Predicting flight prices without having proper idea about particular airline com
 <img src="https://user-images.githubusercontent.com/50701303/110055120-7b235400-7d84-11eb-9f63-0b4b63ee26e7.png" width="100" height="100"/>     <img src="https://user-images.githubusercontent.com/50701303/110055270-cb021b00-7d84-11eb-923a-0d2ea158adf7.png" width="100" height="100"/>    <img src="https://user-images.githubusercontent.com/50701303/110053960-5cbc5900-7d82-11eb-98f4-0ebe26222aa0.png" width="100" height="100"/>               
 
 # **Further Improvements**
-Deploymen is not completed yet so i am working on it.
+Deployment is not completed yet so i am working on it.
 
 # **Contact**
 If you have any doubt or want to contribute feel free to email me or hit me up on [Linkedin](https://www.linkedin.com/in/manoj-kumal-9446b0179/)
