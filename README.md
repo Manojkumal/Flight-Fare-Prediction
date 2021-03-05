@@ -17,5 +17,5 @@ Predicting flight prices without having proper idea about particular airline com
 Developement is not done yet so i am working on it.
 
 # **Contact**
-[If you have any doubt or want to contribute feel free to email me or hit me up on](https://www.linkedin.com/in/manoj-kumal-9446b0179/)
-[Project tutorial by Krish Naik](https://www.youtube.com/watch?v=y4EMEpEnElQ)
+If you have any doubt or want to contribute feel free to email me or hit me up on[Linkedin](https://www.linkedin.com/in/manoj-kumal-9446b0179/)
+Project tutorial by Krish Naik go through this [Link](https://www.youtube.com/watch?v=y4EMEpEnElQ)
