@@ -1,7 +1,7 @@
 # **Project: Flight Fare Prediction**
 
 # **Overview**
-This is the regression problem project. The model is trained by using machine learning algorithm. The trained model takes the different values as input and predict the prices of the flights.
+This project aims to develop an application which will predict the flight prices for various flights using machine learning model. The user will get the predicted values and with its reference the user can decide to book their tickets accordingly. In the current day scenario flight companies try to manipulate the flight ticket prices to maximize their profits. There are many people who travel regularly through flights and so they have an idea about the best time to book cheap tickets. But there are also many people who are inexperienced in booking tickets and end up falling in discount traps made by the companies where actually they end up spending more than they should have. The proposed system can help save millions of rupees of customers by proving them the information to book tickets at the right time.
 
 # **Motivation**
 This project is for learning purpose. Predicting flight prices without having proper idea about particular airline company is near too impossible. Using machine learning approach, the model can easily to predict how much you need to spent on your flight expenses. Uers can able to select one airline commpany base on budget for their ongoing journey through various airline commpanies and you didn't need to do any extra spent.
