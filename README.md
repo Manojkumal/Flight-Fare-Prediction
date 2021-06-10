@@ -17,4 +17,4 @@ This project is for learning purpose. Predicting flight prices without having pr
 # **Contact**
 If you have any doubt or want to contribute feel free to email me or hit me up on [Linkedin](https://www.linkedin.com/in/manoj-kumal-9446b0179/)
 
-Project tutorial by Krish Naik go through this [Link](https://www.youtube.com/watch?v=y4EMEpEnElQ)
+References [Link](https://www.youtube.com/watch?v=y4EMEpEnElQ)
