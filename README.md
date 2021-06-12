@@ -16,5 +16,5 @@ This project is for learning purpose. Predicting flight prices without having pr
 
 # **Contact**
 If you have any doubt or want to contribute feel free to email me or hit me up on [Linkedin](https://www.linkedin.com/in/manoj-kumal-9446b0179/)
-
+To know more about the project, you can check [Here](https://manojkumal.github.io/Portfolio_Website/post/preoject-2/)
 References [Link](https://www.youtube.com/watch?v=y4EMEpEnElQ)
