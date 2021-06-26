@@ -13,6 +13,4 @@ If you have any doubt or want to contribute feel free to email me or hit me up o
 
 To know more about the project, you can check [Here](https://manojkumal.github.io/Portfolio_Website/post/preoject-2/)
 
-References [Link](https://www.youtube.com/watch?v=y4EMEpEnElQ)
-
 Original Dataset [here](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
