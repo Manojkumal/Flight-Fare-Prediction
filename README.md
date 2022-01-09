@@ -11,6 +11,6 @@ With the development of transportations industry and everyone has limited time f
 # **Contact**
 If you have any doubt or want to contribute feel free to email me or hit me up on [Linkedin](https://www.linkedin.com/in/manoj-kumal-9446b0179/)
 
-To know more about the project, you can check [Here](https://manojkumal.github.io/Portfolio/post/preoject-2/)
+To know more about the project, you can check [Here](https://manojkumal.github.io/Portfolio/post/project-2/)
 
 Original Dataset [here](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
